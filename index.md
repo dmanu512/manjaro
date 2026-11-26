@@ -12,16 +12,16 @@ Reply counts register discussion activity and may serve as provisional indicator
 These subject lines are ranked by the number of replies the threads garnered at the time of retrieval (Sep. 23), and each row identifies third party software and problem states from said subject lines to give an idea of what Manjaro Linux users struggle with. By ranking by replies, topics with the most experts trying to help rank on top.
 
 
-| sample_number |                                     topic                                    | replies | views |  tags  | Named Entity 1 | Named Entity 2 | Named Entity 3 |              Problem              |
-|:-------------:|:----------------------------------------------------------------------------:|:-------:|:-----:|:------:|:--------------:|:--------------:|:--------------:|:---------------------------------:|
-| 49            | Appimage load error (Shotcut)                                                | 38      | 649   |        | AppImage       |                |                | Loading / startup                 |
-| 6             | Is it possible to install and run Python 3.11 script in virtual environment? | 17      | 3144  | plasma | Python         | Script         |                | Installation / updating / removal |
-| 70            | Firefox addon:Open in VLC media player?                                      | 16      | 634   |        | Firefox        |                |                | Incorrect output / behaviour      |
-| 73            | Firefox addon question                                                       | 14      | 322   |        | Firefox        |                |                | Unclear / Unspecified             |
-| 2             | Freecad appimage fails to start after update                                 | 13      | 244   |        | AppImage       | Update         |                | Loading / startup                 |
-| 34            | Cannot build OpenShot                                                        | 12      | 496   |        | build          |                |                | Installation / updating / removal |
-| 56            | How do I install "debug package" of kwin?                                    | 12      | 230   | plasma | kwin           |                |                | Installation / updating / removal |
-| 81            | Burn bootable Windows 10 ISO image to USB stick with dd?                     | 11      | 2701  |        | Windows        | ISO            | USB            | Recognition / detection           |
+| sample_number | topic | replies | views | tags | Named Entity 1 | Named Entity 2 | Named Entity 3 | Problem |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 49 | Appimage load error (Shotcut) | 38 | 649 |  | AppImage |  |  | Loading / startup |
+| 6 | Is it possible to install and run Python 3.11 script in virtual environment? | 17 | 3144 | plasma | Python | Script |  | Installation / updating / removal |
+| 70 | Firefox addon:Open in VLC media player? | 16 | 634 |  | Firefox |  |  | Incorrect output / behaviour |
+| 73 | Firefox addon question | 14 | 322 |  | Firefox |  |  | Unclear / Unspecified |
+| 2 | Freecad appimage fails to start after update | 13 | 244 |  | AppImage | Update |  | Loading / startup |
+| 34 | Cannot build OpenShot | 12 | 496 |  | build |  |  | Installation / updating / removal |
+| 56 | How do I install "debug package" of kwin? | 12 | 230 | plasma | kwin |  |  | Installation / updating / removal |
+| 81 | Burn bootable Windows 10 ISO image to USB stick with dd? | 11 | 2701 |  | Windows | ISO | USB | Recognition / detection |
 >*This category table, **TAB1**, contains subject lines from the Manjaro Linux help forum, narrowed down to threads posted under the Third Party Program section, and further narrowed down to omit subject lines not containing named entities.*  
 
 
