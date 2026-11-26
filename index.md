@@ -22,6 +22,7 @@ These subject lines are ranked by the number of replies the threads garnered at 
 | 34 | Cannot build OpenShot | 12 | 496 |  | build |  |  | Installation / updating / removal |
 | 56 | How do I install "debug package" of kwin? | 12 | 230 | plasma | kwin |  |  | Installation / updating / removal |
 | 81 | Burn bootable Windows 10 ISO image to USB stick with dd? | 11 | 2701 |  | Windows | ISO | USB | Recognition / detection |
+
 >*This category table, **TAB1**, contains subject lines from the Manjaro Linux help forum, narrowed down to threads posted under the Third Party Program section, and further narrowed down to omit subject lines not containing named entities.*  
 
 
@@ -63,6 +64,7 @@ Every subject line contains the software AppImage, which was the one identified 
 |            14 | AppImage not working - App opens for around 2-3 seconds the closes       |       4 |  4281 | appimage          | AppImage       |                | Crashing                          |
 |            26 | [HowTo] get the latest LibreOffice when released?                        |       4 |  8358 | flatpak; appimage | AppImage       | LibreOffice    | Installation / updating / removal |
 |             4 | Pcsx2 appimage (execv error: No such file or directory)                  |       2 |   944 | appimage          | AppImage       |                | Recognition / detection           |
+
 >*This second table, **TAB2**, is the entity search table, also derived from the Manjaro Linux help forum. *
 
 ## Section 3: AppImage suffers from loading or starting up, freezing or unresponsiveness, crashing, and incorrect output or behavior
